@@ -1,0 +1,22 @@
+{
+  "name": "goit-node-js-hw",
+  "version": "1.0.0",
+  "description": "Educational project. Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "yargs": "^17.7.1"
+  }
+}
